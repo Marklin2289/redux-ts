@@ -1,1 +1,1 @@
-redux typescript learning by building project
+redux typescript learning by building project : NPM searching engine.
